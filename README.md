@@ -8,7 +8,7 @@
 --->
 
 ## Introduction
-This project provides a solution for securely encrypting and decrypting credit card information. It consists of two components: a client-side application for encrypting credit card data and a server-side application for decrypting the encrypted data using a private key.
+This project provides a solution for securely encrypting and decrypting credit card information. It consists of two components: a client-side application for encrypting credit card data and a server-side application for decrypting the encrypted data using a private key. This is also a part of my internship program at SlashMark, given as Task-4.
 
 ## Features
 - Encrypt credit card information securely.
