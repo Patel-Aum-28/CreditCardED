@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(#015496, #a6daff);
+    background-image: linear-gradient(135deg, #74EBD5 8%, #9FACE6 81%);
 }
 
 .payment {
