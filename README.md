@@ -2,9 +2,6 @@
 
 <!---
 [![License](https://img.shields.io/github/license/Patel-Aum-28/CreditCardED)](https://github.com/Patel-Aum-28/CreditCardED/blob/master/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/Patel-Aum-28/CreditCardED)](https://github.com/Patel-Aum-28/CreditCardED/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/Patel-Aum-28/CreditCardED)](https://github.com/Patel-Aum-28/CreditCardED/network)
-[![GitHub Stars](https://img.shields.io/github/stars/Patel-Aum-28/CreditCardED)](https://github.com/Patel-Aum-28/CreditCardED/stargazers)
 --->
 
 ## Introduction
@@ -72,9 +69,9 @@ You can access the Django admin interface to manage encrypted data and to config
 ## Screenshots
 
 ### Client Side
-![Client Interface Data Entry](img/Client-1.png)
+![Client Interface Data Entry](img/Client-1.PNG)
 
-![Client Interface Success](img/Client-2.png)
+![Client Interface Success](img/Client-2.PNG)
 - Here success msg popup when the data is stored in database, otherwise it shows warning popup.
 
 ### Server Side
