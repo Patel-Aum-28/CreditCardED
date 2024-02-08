@@ -1,8 +1,6 @@
 # Web Based Credit Card Encryption and Decryption System
 
-<!---
-[![License](https://img.shields.io/github/license/Patel-Aum-28/CreditCardED)](https://github.com/Patel-Aum-28/CreditCardED/blob/master/LICENSE)
---->
+[![License](https://img.shields.io/github/license/Patel-Aum-28/CreditCardED)](https://github.com/Patel-Aum-28/CreditCardED/blob/main/LICENSE)
 
 ## Introduction
 This project provides a solution for securely encrypting and decrypting credit card information. It consists of two components: a client-side application for encrypting credit card data and a server-side application for decrypting the encrypted data using a private key. This is also a part of my internship program at SlashMark, given as Task-4.
